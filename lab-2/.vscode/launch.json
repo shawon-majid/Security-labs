@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/shawonmajid/Documents/SWE 19/4th Year - 1st Semester/Information & Network Security/labs/lab-2",
+      "program": "/Users/shawonmajid/Documents/SWE 19/4th Year - 1st Semester/Information & Network Security/labs/lab-2/build/Debug/outDebug"
+    }
+  ]
+}

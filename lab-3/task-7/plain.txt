@@ -1,0 +1,1 @@
+This is a simple tezt file, I will generate hash of this text file.
